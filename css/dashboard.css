@@ -1,0 +1,73 @@
+* {
+    font-family: 'Roboto',
+        sans-serif;
+}
+
+.bg-body {
+    background-color: #100E0E;
+}
+
+.navbar-bg-color {
+    background-color: #2D251A;
+}
+
+.bg-card-covid {
+    background: #2D251A;
+    box-shadow: 1px 1px 4px #7B7878;
+    border-radius: 15px
+}
+
+.bg-maps {
+    background: #2D251A;
+    box-shadow: 0px 1px 4px #7B7878;
+    border-radius: 25px;
+}
+
+.bg-walikota {
+    background-image: url('../img/walikota.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+
+}
+
+.font-color-table {
+    color: #B8B7B7;
+}
+
+.fixed-top {
+    position: absolute;
+    width: 100%;
+}
+
+.bg-download {
+    background: linear-gradient(94.99deg, #DE4B4B 24.68%, #FFFFFF 131.9%);
+}
+
+.artikel-heigth {
+    height: 40em;
+}
+
+.bg-contact {
+    background: #2D251A;
+    box-shadow: 0px 1px 4px #7B7878;
+    border-radius: 25px;
+}
+
+/* home page admin */
+.bg-action {
+    background: linear-gradient(96.85deg, #FDD013 8.43%, #FFFFFF 135.01%);
+}
+
+
+
+/* page tambah data */
+.height-add-data {
+    height:40em;
+}
+
+.bg-input{
+    border: 0.5px solid #FFFFFF;
+    box-sizing: border-box;
+}
